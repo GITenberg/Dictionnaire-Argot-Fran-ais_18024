@@ -1,0 +1,28 @@
+_repo: Dictionnaire-Argot-Fran-ais_18024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hayard, Napoléon
+    alias: Hayard, Napoleon
+    birthdate: 1851
+    deathdate: 1903
+    gutenberg_agent_id: '7756'
+    url: http://www.gutenberg.org/2009/agents/7756
+description: ''
+gutenberg_bookshelf: FR Langues
+gutenberg_issued: '2006-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18024'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French language -- Slang -- Dictionaries'
+- !lcc 'PC'
+title: Dictionnaire Argot-Français
+url: http://www.gutenberg.org/ebooks/18024
