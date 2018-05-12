@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7756'
     url: http://www.gutenberg.org/2009/agents/7756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18024#Dictionnaire-Argot-Fran-ais
 gutenberg_bookshelf: FR Langues
 gutenberg_issued: '2006-03-20'
 gutenberg_type: Text
